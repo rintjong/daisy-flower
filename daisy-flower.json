@@ -1,0 +1,306 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"1"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    
+    {
+      "id": 1,
+      "name_category": "daisy",
+      "image": "https://i.pinimg.com/736x/72/b5/e2/72b5e208d9620cf832b69ac7513ebad5.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "daisy",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/736x/38/8d/ab/388dab3e68f5867e62c0bdd20e2a2e81.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "daisy",
+      "title": "River",
+      "image": "https://i.pinimg.com/736x/48/f0/f6/48f0f63ab9ee8c498e7130b490b1f545.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/07/39/0d/07390dc6fd5167f6fdc3a7bf0700b9f1.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/ac/81/94/ac8194d3df36717433f083a9c0e4aeee.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/62/6a/a3/626aa3f07f10ef0bc1307bdf8d40a418.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/96/c7/81/96c7812dfa31cb47bf94825af5b0d4b7.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "daisy",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/736x/bc/02/cb/bc02cb19d884f8ed59830304e6aa281a.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "daisy",
+      "title": "River",
+      "image": "https://i.pinimg.com/736x/8c/cf/89/8ccf89dda1e604025da001f9c31a7aca.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/61/60/79/616079326ed424c9d51a4e9ce4fff86d.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/c1/9c/48/c19c48b1dfb5a69ddbd946c7665c8004.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/2b/f0/1f/2bf01facd5fec8bb908900c2cf36d214.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/f2/b1/e5/f2b1e549009b638d4cee7718eed5767c.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "daisy",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/736x/82/42/25/824225d8a9aa07738a069aa5dd7933cd.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "daisy",
+      "title": "River",
+      "image": "https://i.pinimg.com/736x/69/0e/d2/690ed2d57487f5390692544e4651816c.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/89/45/4c/89454c310700ddec2059a2143a11a85c.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/f4/0c/16/f40c163ec0d3580b8091349abb1c57de.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/21/f1/b3/21f1b374c83ffbe7b780a67ca0c120be.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/b2/4f/98/b24f983fd3531272868e1a48bcf7a91a.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "daisy",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/736x/ac/0d/1f/ac0d1f43d1056355c28ac8dabefe532b.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "daisy",
+      "title": "River",
+      "image": "https://i.pinimg.com/736x/1d/54/fd/1d54fdb8441174d73b7caa9de374017c.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/87/04/7e/87047e70177d8c4094439f9bf202bb07.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/72/b5/e2/72b5e208d9620cf832b69ac7513ebad5.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/1f/f6/56/1ff656c330079f1c7562e59e71a4ae34.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/b9/1d/cd/b91dcde550617739d0a0051f0b150b6d.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "daisy",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/736x/2a/a3/84/2aa384afbf34b4edb2d41da1e4f7d34e.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "daisy",
+      "title": "River",
+      "image": "https://i.pinimg.com/736x/e1/85/cf/e185cf19d5f13918b6f5cdc7fdbe43da.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/d1/3a/00/d13a009ff9249af5359fac3ec32076f1.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/e4/ae/54/e4ae54f455a2c57cbc085533ec26c81a.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/9d/5e/ad/9d5ead2cd6cee5cb168f6f271b33a3b1.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/02/8c/c7/028cc7dfc40c8a8be50c5de0eee03d9b.jpg"
+    },
+    {
+     "id":31,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/88/ce/4b/88ce4b8299f6e3c2ff5f3f0869f2bfc4.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/13/a6/20/13a6200d336d1c4b1d6c81240acd9cb2.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/9f/8c/ff/9f8cffd46fbf5a9828b8a2c9dacd76b2.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/c4/99/93/c499939b95ee48dadd29d536ddfa0fb1.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "daisy",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/736x/76/71/bf/7671bfeb41f8fa5066dac24a10d0a23c.jpg"
+    },
+    {
+      "id": 36,
+      "name_category": "daisy",
+      "title": "River",
+      "image": "https://i.pinimg.com/736x/50/66/68/506668280de0e40f10732378ed0da577.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "daisy",
+      "title":"Mountain",
+      "image":"https://i.pinimg.com/736x/31/49/dd/3149dd8249d7eb6baf4dce596d4caef4.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "daisy",
+      "title":"Cute Cat",
+      "image":"https://i.pinimg.com/736x/c6/db/60/c6db6025ec13b981024c1c419721ed07.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "daisy",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/736x/67/8f/17/678f17324dfc5ebe8cca0e326fc71731.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "daisy",
+      "title":"Super Car",
+      "image":"https://i.pinimg.com/736x/c4/3c/e6/c43ce698e374ab6e7031e735a1b1e4a2.jpg"
+    }
+  ]
+}
